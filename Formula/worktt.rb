@@ -14,9 +14,9 @@ class Worktt < Formula
 
   def caveats
     <<~EOS
-      worktt liest die geschützte knowledgeC.db. Gib deinem Terminal
-      Full Disk Access: Systemeinstellungen > Datenschutz & Sicherheit
-      > Festplattenvollzugriff.
+      worktt reads the protected knowledgeC.db. Grant your terminal
+      Full Disk Access: System Settings > Privacy & Security
+      > Full Disk Access.
     EOS
   end
 

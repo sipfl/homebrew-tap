@@ -1,6 +1,6 @@
 # homebrew-tap
 
-Homebrew formulae von [@sipfl](https://github.com/sipfl).
+Homebrew formulae by [@sipfl](https://github.com/sipfl).
 
 ## Installation
 
@@ -8,7 +8,7 @@ Homebrew formulae von [@sipfl](https://github.com/sipfl).
 brew install sipfl/tap/worktt
 ```
 
-oder explizit:
+or explicitly:
 
 ```sh
 brew tap sipfl/tap
@@ -17,4 +17,4 @@ brew install worktt
 
 ## Formulae
 
-- **worktt** — Arbeitszeiten aus der macOS `knowledgeC.db` ableiten ([Repo](https://github.com/sipfl/worktt))
+- **worktt** — derive working hours from the macOS `knowledgeC.db` ([repo](https://github.com/sipfl/worktt))
