@@ -1,8 +1,8 @@
 class Worktt < Formula
   desc "Derive working hours from macOS knowledgeC.db"
   homepage "https://github.com/sipfl/worktt"
-  url "https://github.com/sipfl/worktt/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "52997ae656bf095b1ad68bcf919ee2e0209983ff2eb8b2944f1f532b3db11dbd"
+  url "https://github.com/sipfl/worktt/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "24920e248fb4ff552bec673831c57cfba48e892fe2a97d8511abb5b718b2133a"
   license "MIT"
 
   depends_on "go" => :build
